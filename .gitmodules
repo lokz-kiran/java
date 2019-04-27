@@ -1,0 +1,3 @@
+[submodule "new-remote-repo"]
+	path = new-remote-repo
+	url = https://github.com/lokz-kiran/new-remote-repo.git
